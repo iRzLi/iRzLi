@@ -4154,3 +4154,11 @@ input, select, textarea {
 		}
 
 	}
+
+.redux {
+	width: 15.83px;
+	height: 15px;
+	background-image: url("../../images/redux.svg");
+	display: inline-block;
+	color: white;
+}
